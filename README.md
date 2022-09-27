@@ -19,7 +19,7 @@ Interface Builder, Auto Layout, outlets and other things, but at the same time y
 
 Project 4 - Easy Browser.
 
-![114064840-b09af000-98a2-11eb-![114064865-b55fa400-98a2-11eb-87eb-e08a53547fdc](https://user-images.githubusercontent.com/110721351/192558700-216a35bb-3f3a-4002-959a-c1a641483853.png)
 
-9ac6-159c7f0515aa](https://user-images.githubusercontent.com/110721351/192558682-82ec8a12-ceb4-4d5e-84c8-e35674bdf60f.png)
+![114064840-b09af000-98a2-11eb-9ac6-159c7f0515aa](https://user-images.githubusercontent.com/110721351/192559149-595999eb-38b8-4aff-9292-6de553fc5e31.png)
 
+![114064865-b55fa400-98a2-11eb-87eb-e08a53547fdc](https://user-images.githubusercontent.com/110721351/192559163-49fe872d-4021-4c28-9e32-5cc798896303.png)
