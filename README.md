@@ -16,6 +16,16 @@ Interface Builder, Auto Layout, outlets and other things, but at the same time y
 ![125533296-e0648b2d-0c9e-496b-bb77-5a3d1f0c54ee](https://user-images.githubusercontent.com/110721351/192013818-56acd824-bd27-4745-a0a7-e57daa937688.png)
 ![125533299-cecae5a3-5f03-4b3d-9ae6-09c2eab0a34c](https://user-images.githubusercontent.com/110721351/192013830-dc1abede-e1a4-4bf0-8f04-8c0e2b4329c5.png)
 
+Project 1 - 3 Milestone.
+
+ViewController, UITableViewController, UIActivityViewController, FileManager, imageView.
+
+![125533653-256ebbc6-65bf-4dfd-9a8a-65bdef2d346d](https://user-images.githubusercontent.com/110721351/194043522-dee5f9d8-5628-4295-b0e1-ca558b7ada8c.gif)
+![125533657-9a889d61-73d3-4aad-b735-80a4706c22ae](https://user-images.githubusercontent.com/110721351/194043555-c9ed4e3c-98f7-494c-a3a4-191bcf305b12.png)
+![125533658-7e2c5235-521e-4b84-90e8-2b27c4260283](https://user-images.githubusercontent.com/110721351/194043573-d5d292aa-5639-4616-bdcc-8d91d36fded6.png)
+
+
+
 
 Project 4 - Easy Browser.
 
