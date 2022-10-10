@@ -1,4 +1,5 @@
 # 100-Days-of-Swift
+<img width="600" alt="Снимок экрана 2022-10-10 в 18 37 37" src="https://user-images.githubusercontent.com/110721351/194867922-067071b6-0326-45d5-ae87-77ff90096019.png">
 
 Project 1 - Storm Viewer.
 
